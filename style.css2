@@ -1,0 +1,62 @@
+
+.header {
+  font-size: 30px;
+    padding-left: 30px;
+  color: #F6FCFF;
+    font-family: sans-serif, helvetica, arial;
+}
+body { 
+border: 6px solid #F6FCFF;
+  background-image: linear-gradient(#87CEEB,#87CEEB, #87CEEB,#DEFF8E);
+}
+
+
+
+.contact-info{
+ font-size: 20px;
+ font-family: sans-serif, helvetica, arial;
+    color:#F6FCFF;
+   
+}
+
+/*.number,.email,h3{
+  color:white;
+  padding-left: 20px;
+}*/
+
+img{
+  width: 20%;
+  border:3px solid #F6FCFF;
+  margin-left:1000px;
+  
+}
+
+.education{
+  font-size: 20px;
+  color:#F6FCFF;
+ font-family: sans-serif, helvetica, arial;
+  
+}
+.jobs {
+   font-size: 20px;
+  font-family: sans-serif, helvetica, arial;
+  color:#F6FCFF;
+}
+h3{
+font-size: 33px;
+  text-align:center;
+  margin-left: 90px;
+   margin-right: 90px;
+   border-top: 3px solid #F6FCFF;
+  border-bottom: 3px solid #F6FCFF;
+  text-transform: uppercase;
+  
+  
+}
+h4{
+  text-transform: uppercase;
+}
+p{
+  text-align: center
+}
+
