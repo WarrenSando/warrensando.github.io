@@ -1,61 +1,67 @@
-
 .header {
   font-size: 30px;
-    padding-left: 30px;
+  padding-left: 30px;
   color: #F6FCFF;
-    font-family: sans-serif, helvetica, arial;
-}
-body { 
-border: 6px solid #F6FCFF;
-   background-image: linear-gradient(#deff8e, #87ceeb 1.26%, #87ceeb, #87ceeb 97.9%, #deff8e);
+  font-family: sans-serif, helvetica, arial;
 }
 
+
+body { 
+  border: 6px solid #F6FCFF;
+  background-image: linear-gradient(#deff8e, #87ceeb 2.52%, #87ceeb, #87ceeb 98.74%, #deff8e);
+}
 
 
 .contact-info{
- font-size: 20px;
- font-family: sans-serif, helvetica, arial;
-    color:#F6FCFF;
-   
+  font-size: 20px;
+  font-family: sans-serif, helvetica, arial;
+  color:#F6FCFF;
 }
+
 
 /*.number,.email,h3{
   color:white;
   padding-left: 20px;
 }*/
 
+
 img{
   width: 20%;
   border:3px solid #F6FCFF;
   margin-left:40px;
-  
 }
+
 
 .education{
   font-size: 20px;
   color:#F6FCFF;
- font-family: sans-serif, helvetica, arial;
-  
+  font-family: sans-serif, helvetica, arial;
 }
+
+
 .jobs {
-   font-size: 20px;
+  font-size: 20px;
   font-family: sans-serif, helvetica, arial;
   color:#F6FCFF;
 }
+
+
 h3{
-font-size: 33px;
+  font-size: 33px;
   text-align:center;
   margin-left: 90px;
-   margin-right: 90px;
-   border-top: 3px solid #F6FCFF;
+  margin-right: 90px;
+  border-top: 3px solid #F6FCFF;
   border-bottom: 3px solid #F6FCFF;
   text-transform: uppercase;
-  
-  
 }
+
+
 h4{
   text-transform: uppercase;
 }
+
+
 p{
   text-align: center
 }
